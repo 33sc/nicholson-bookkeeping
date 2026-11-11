@@ -18,9 +18,7 @@ export function Footer() {
         <div className="grid gap-10 sm:grid-cols-2 lg:grid-cols-4">
           {/* Brand */}
           <div>
-            <div className="inline-block bg-white rounded-xl px-4 py-2.5">
-              <img src="/logo.png" alt="Nicholson Bookkeeping Solutions" className="h-8 w-auto" />
-            </div>
+            <img src="/logo-white.png" alt="Nicholson Bookkeeping Solutions" className="h-9 w-auto" />
             <p className="mt-4 font-serif text-teal-light">Accurate Books. Clear Insights.</p>
             <p className="mt-2 text-sm leading-relaxed text-slate-400">
               Friendly, professional bookkeeping for individuals, sole traders
